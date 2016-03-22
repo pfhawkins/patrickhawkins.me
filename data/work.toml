@@ -1,0 +1,10 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "Hyperverses"
+    folder = "proj-1"
+
+[[projects]]
+    name = "The Old Evangelization"
+    folder = "toe"
