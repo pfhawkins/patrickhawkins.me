@@ -3,7 +3,10 @@
   
   <url>
     <loc>http://patrickhawkins.me/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://patrickhawkins.me/work/blog/</loc>
   </url>
   
   <url>
