@@ -8,3 +8,7 @@ title = "Work"
 [[projects]]
     name = "The Old Evangelization"
     folder = "toe"
+
+[[projects]]
+    name = "Personal Blog"
+    folder = "blog"
