@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrick Hawkins</title>
-    <link>http://patrickhawkins.me/</link>
+    <link>http://patrickhawkins.me/index.xml</link>
     <description>Recent content on Patrick Hawkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -16,6 +16,16 @@
       <guid>http://patrickhawkins.me/work/blog/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://pfhawkins.com&#34;&gt;pfhawkins.com&lt;/a&gt; is my personal blog. Really
 rather defunct. WARNING: contains some terrible poetry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://patrickhawkins.me/work/mungo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://patrickhawkins.me/work/mungo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mungo.hyperverses.com&#34;&gt;Mungo&lt;/a&gt; is an API for generating strings that can help when testing.&lt;/p&gt;
 </description>
     </item>
     
